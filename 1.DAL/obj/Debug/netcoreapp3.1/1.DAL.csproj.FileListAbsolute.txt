@@ -1,0 +1,13 @@
+D:\ph20877\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.deps.json
+D:\ph20877\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.runtimeconfig.json
+D:\ph20877\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.runtimeconfig.dev.json
+D:\ph20877\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.dll
+D:\ph20877\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.pdb
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.csproj.AssemblyReference.cache
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.AssemblyInfoInputs.cache
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.AssemblyInfo.cs
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.csproj.CoreCompileInputs.cache
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.dll
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.pdb
+D:\ph20877\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.genruntimeconfig.cache
