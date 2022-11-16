@@ -1,0 +1,13 @@
+D:\Lab_NET103\lab\bin\Debug\lab.exe.config
+D:\Lab_NET103\lab\bin\Debug\lab.exe
+D:\Lab_NET103\lab\bin\Debug\lab.pdb
+D:\Lab_NET103\lab\obj\Debug\lab.csproj.AssemblyReference.cache
+D:\Lab_NET103\lab\obj\Debug\lab.csproj.SuggestedBindingRedirects.cache
+D:\Lab_NET103\lab\obj\Debug\Lab.FrmDangKi.resources
+D:\Lab_NET103\lab\obj\Debug\lab.FrmQLPhim.resources
+D:\Lab_NET103\lab\obj\Debug\lab.Properties.Resources.resources
+D:\Lab_NET103\lab\obj\Debug\lab.csproj.GenerateResource.cache
+D:\Lab_NET103\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+D:\Lab_NET103\lab\obj\Debug\lab.exe
+D:\Lab_NET103\lab\obj\Debug\lab.pdb
+D:\Lab_NET103\lab\obj\Debug\lab.FrmGiaiTri.resources
